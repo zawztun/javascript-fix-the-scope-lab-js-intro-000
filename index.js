@@ -4,7 +4,7 @@ function yourAnimal() {
   return yourAnimal
 }
 
-var animal = 'cat'
+
 function myAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
